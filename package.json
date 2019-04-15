@@ -4,7 +4,7 @@
   "description": "Long Reading: Node Beginner Book",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node index.js",
     "start:watch": "nodemon index.js"
   },
   "repository": {
@@ -20,5 +20,8 @@
   "homepage": "https://github.com/T-Tommy/long-reading#readme",
   "devDependencies": {
     "nodemon": "^1.18.11"
+  },
+  "dependencies": {
+    "formidable": "^1.2.1"
   }
 }
