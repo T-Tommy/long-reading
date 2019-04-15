@@ -1,0 +1,24 @@
+{
+  "name": "long-reading",
+  "version": "1.0.0",
+  "description": "Long Reading: Node Beginner Book",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:watch": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T-Tommy/long-reading.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T-Tommy/long-reading/issues"
+  },
+  "homepage": "https://github.com/T-Tommy/long-reading#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
